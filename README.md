@@ -44,8 +44,8 @@ and make sure you are using correct gradle 17 by going to:
 
 here we go
 <p align="center">
-<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/android1.png" width="350" alt="ios">
-<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/android2.png" width="350" alt="ios">
+<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/android1.png" width="350" alt="android">
+<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/android2.png" width="350" alt="android">
 </p>
 
 # run on web 
@@ -54,7 +54,7 @@ here we go
 then open broswer and got to link ```http://localhost:3000/```
 
 here we go
-<p align="center">
-<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/web1.png" width="350" alt="ios">
-<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/web2.png" width="350" alt="ios">
-</p>
+
+<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/web1.png"  alt="web">
+<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/web2.png"  alt="web">
+
