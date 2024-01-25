@@ -18,25 +18,6 @@ root.render(
     <Provider store={configureStore()}>
       <App />
     </Provider>
-    
-    {/* <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<App />}>
-            <Route path="" element={<Payslips />} />
-            <Route path="/app/PayslipDetails" element={<PayslipDetails />} />
-            <Route
-              path="*"
-              element={
-                <main style={{ padding: '1rem' }}>
-                  <p>There's nothing here!</p>
-                  <Link to="/">Back home!</Link>
-                </main>
-              }
-            />
-        </Route>
-      </Routes>
-    
-    </BrowserRouter> */}
   </React.StrictMode>
 );
 

@@ -24,27 +24,6 @@ setupIonicReact();
 
 function App() {
   return  <IonNav root={() => <Payslips />}></IonNav>;
-  // (
-  //   // <div style={{ margin: '1rem' }}>
-	// 	// 	<h1>deel App test</h1>
-	// 	// 	<Outlet />
-	// 	// </div>
-  //   <>
-  //   <IonApp>
-  //   <IonHeader>
-        
-  //       <IonToolbar color="primary" style={{ paddingTop: '3rem' }}>
-  //         <IonTitle>deel app</IonTitle>
-  //       </IonToolbar>
-  //     </IonHeader>
-  //     <IonContent>
-  //     <Outlet />
-  //     </IonContent>
-      
-  //   </IonApp>
-      
-  //   </>
-  // );
 }
 
 export default App;

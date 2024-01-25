@@ -9,22 +9,9 @@ const rootEpic = combineEpics(
 )
 const rootReducer = combineReducers({payslips: payslipsReducer}) 
 
-
 const epicMiddleware = createEpicMiddleware();
 
-// export default createStore(
-//   payslips,
-//   applyMiddleware(epicMiddleware)
-// );
-
-// const store = createStore(
-//     rootReducer,
-//     applyMiddleware(epicMiddleware)
-// );
-
-
 export default function configureStore2() {
-    // const store = configureStore(rootReducer,['Use Redux'],applyMiddleware(epicMiddleware))
     const store = createStore(rootReducer,applyMiddleware(epicMiddleware));
   
     epicMiddleware.run(rootEpic);

@@ -20,7 +20,7 @@ export const fetchPayslips = (
                 console.log('mockData==============',item)
             })
             
-            const requestAction = of(PayslipsAction.payslipsSuccess(Payslips.payslips))//[{id:1,from: "10/10/2020" , to: "10/01/2022",file:"https://www.orimi.com/pdf-test.pdf"},{id:2,from: "01/01/2022" , to: "12/11/2042",file:"https://via.placeholder.com/300/09f/fff.png"},{id:1,from: "10/10/2020" , to: "10/01/2022",file:"https://www.orimi.com/pdf-test.pdf"}])) //of({id:1,from: "10/10/2020" , to: "10/01/2022",file:"https://www.orimi.com/pdf-test.pdf"},{id:2,from: "01/01/2022" , to: "12/11/2042",file:"https://via.placeholder.com/300/09f/fff.png"})
+            const requestAction = of(PayslipsAction.payslipsSuccess(Payslips.payslips))
 
             return concat(loadingAction, requestAction);
 	}));

@@ -42,14 +42,6 @@ export const payslipsReducer = (
 				errorMessage: false
 			};
 		}
-		// case ActionTypes.PAYSLIPS_REQUEST_LOADING: {
-		// 	return {
-		// 		...state,
-		// 		loading: false,
-		// 		loaded: false,
-		// 		errorMessage: action.errorMessage
-		// 	};
-		// }
 		case ActionTypes.PAYSLIPS_REQUEST_FAILURE: {
 			return {
 				...state,

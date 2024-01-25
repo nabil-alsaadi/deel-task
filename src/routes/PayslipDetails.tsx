@@ -1,5 +1,3 @@
-
-
 import {IonButton, IonCard, IonCardContent, IonCardHeader, IonCardSubtitle, IonCardTitle, IonCol, IonContent, IonGrid, IonHeader, IonItem, IonLabel, IonRow, IonSpinner, IonTitle, IonToolbar, useIonAlert } from "@ionic/react";
 import { useState } from "react";
 import { Header } from "../components/header";
