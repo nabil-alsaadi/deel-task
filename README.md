@@ -26,6 +26,11 @@ Sync your web code to native project:
 
 then choose a target device
 
+here we go
+<p align="center">
+<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/ios1.png" width="350" alt="ios">
+<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/ios2.png" width="350" alt="ios">
+</p>
 
 # run on android:
 
@@ -37,7 +42,19 @@ and make sure you are using correct gradle 17 by going to:
 
 ```File -> Settings.. -> Build, Execution, Deployment -> Build Tools -> Gradle" there select your project and set Gradle JVM to your java 17.0.1```
 
+here we go
+<p align="center">
+<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/android1.png" width="350" alt="ios">
+<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/android2.png" width="350" alt="ios">
+</p>
+
 # run on web 
 ```npm run start```
 
 then open broswer and got to link ```http://localhost:3000/```
+
+here we go
+<p align="center">
+<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/web1.png" width="350" alt="ios">
+<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/web2.png" width="350" alt="ios">
+</p>
